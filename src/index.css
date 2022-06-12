@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: all .6s ease-in-out;
+}
+::-webkit-scrollbar{
+  display: none;
 }
 
 code {
